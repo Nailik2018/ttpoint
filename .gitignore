@@ -6,12 +6,8 @@
 .gitignore
 .htaccess
 /frameworks
-/venv
+/node_modules
 
 /delete
-
-*.pyc
-__pycache__/
-Collections/__pycache__/*
 
 /assets/logos
