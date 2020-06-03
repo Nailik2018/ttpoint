@@ -1,0 +1,17 @@
+# Default ignored files
+/workspace.xml
+
+/configurations
+/.idea
+.gitignore
+.htaccess
+/frameworks
+/venv
+
+/delete
+
+*.pyc
+__pycache__/
+Collections/__pycache__/*
+
+/assets/logos
