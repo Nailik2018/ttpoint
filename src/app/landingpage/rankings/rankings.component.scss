@@ -1,0 +1,28 @@
+@import "../../../styles";
+
+.card-title{
+  text-align: center;
+  color: white;
+}
+
+.card{
+  width: 100%;
+  background: aqua;
+  color: white;
+}
+
+.col-md-4{
+  margin-top: 30px;
+}
+
+.ranking-swiss{
+  background: $swiss;
+}
+
+.ranking-men{
+  background: dodgerblue;
+}
+
+.ranking-women{
+  background: lightpink;
+}

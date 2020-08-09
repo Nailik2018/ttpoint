@@ -1,0 +1,20 @@
+@import "../../../styles";
+
+.card{
+  width: 100%;
+  background: green;
+  color: white;
+}
+
+.col-md-4{
+  margin-top: 30px;
+}
+
+.card-title{
+  text-align: center;
+}
+
+.association-swiss{
+  background: $swiss;
+}
+
