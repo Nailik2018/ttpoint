@@ -7,6 +7,7 @@ import { LandingpageComponent } from './landingpage/landingpage.component';
 import { AssociationsComponent } from './landingpage/associations/associations.component';
 import { RankingsComponent } from './landingpage/rankings/rankings.component';
 import { NavigationNavbarComponent } from './navigation-navbar/navigation-navbar.component';
+import { TableTennisAssociationComponent } from './table-tennis-association/table-tennis-association.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { NavigationNavbarComponent } from './navigation-navbar/navigation-navbar
     LandingpageComponent,
     AssociationsComponent,
     RankingsComponent,
-    NavigationNavbarComponent
+    NavigationNavbarComponent,
+    TableTennisAssociationComponent
   ],
   imports: [
     BrowserModule,

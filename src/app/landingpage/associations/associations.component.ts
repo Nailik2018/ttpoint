@@ -11,5 +11,4 @@ export class AssociationsComponent implements OnInit {
 
   ngOnInit(): void {
   }
-
 }
